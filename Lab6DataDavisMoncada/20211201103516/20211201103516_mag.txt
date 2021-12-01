@@ -1,1 +1,0 @@
-time (s)	magX	magY	magZ
